@@ -18,30 +18,5 @@
   <li><strong>External API:</strong> Retrieves current exchange rates from a trusted currency data provider.</li>
 </ul>
 
-<h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 600; font-size: 1.8em; border-bottom: 2px solid #ccc; padding-bottom: 0.2em; margin-top: 1em;">Installation and Setup</h2>
-<ol>
-  <li><strong>Clone the Repository:</strong>
-    <pre><code>git clone https://github.com/YourUsername/RealTimeCurrencyConverter.git
-cd RealTimeCurrencyConverter</code></pre>
-  </li>
-  <li><strong>API Key Configuration:</strong>
-    <ul>
-      <li>Obtain an API key from a currency exchange rate provider (e.g., ExchangeRate-API).</li>
-      <li>Update the API key in the <code>script.js</code> file.</li>
-    </ul>
-  </li>
-  <li><strong>Run the Application:</strong>
-    <ul>
-      <li>Open <code>index.html</code> in your web browser.</li>
-    </ul>
-  </li>
-</ol>
 
-<h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 600; font-size: 1.8em; border-bottom: 2px solid #ccc; padding-bottom: 0.2em; margin-top: 1em;">Project Structure</h2>
-<pre>
-/src
- ├── index.html
- ├── styles.css
- └── script.js
-</pre>
-
+     
